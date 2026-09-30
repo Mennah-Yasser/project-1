@@ -1,0 +1,19 @@
+body {background-image: url(IMG/Pastry\ Wallpaper.jpg);background-size:cover;}
+header { height: 100px; background-color: white;}
+nav{ margin-top:0px; padding: 25px; float: left;}
+nav ul a {padding: 20px;display: inline;}
+#logo{float: left; padding-right: 50px;}
+#A{padding: 80px;background-color: rgba(253, 241, 228, 0.826);;font-size: medium;}
+#S {background-color: rgba(253, 241, 228, 0.826);margin: 100px;text-align:center; padding:70px;}
+.name{margin: 10px;}
+.email {margin: 10px;}
+.password{margin: 10px;}
+#L{background-color: rgba(253, 241, 228, 0.826);margin: 100px;text-align:center; padding:70px;}
+#F{background-color: rgba(253, 241, 228, 0.826);margin: 100px;text-align:center; padding:70px;}
+#Feedback{margin: 10px;}
+#C{background-color: rgba(253, 241, 228, 0.826);margin: 50px;text-align: start; padding:30px;}
+table {width: 100%;}
+td {border: 2px;padding: 15px;text-align: center;background-color: rgba(240, 255, 255, 0.573);}
+#search {padding: 0px; margin: 20px;}
+#shopping-cart{float: right; padding: 25px;}
+#Go:hover{background-color: rgb(207, 199, 199);}
